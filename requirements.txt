@@ -25,5 +25,8 @@ pyannote.core>=5.0.0
 pyannote.metrics>=3.0.0
 pyannote.audio>=3.0.0
 
-# Speech recognition
+# Speech recognition & timestamping
 openai-whisper>=20230314
+whisper-timestamped>=1.13.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
